@@ -9,6 +9,9 @@
   <a href="https://quentin-jean-pro.github.io/portfolio/assets/cv/CV_Quentin_JEAN_FR.pdf"><img src="https://img.shields.io/badge/CV-Télécharger%20PDF-10b981?style=flat-square&logo=adobeacrobatreader" alt="CV" /></a>
 </p>
 
+> [!NOTE]
+> **Curated Professional Showcase:** This dedicated profile presents clean, fully documented, and reproducible open-source reference implementations. My day-to-day industrial commits and R&D codebases have historically been hosted on private enterprise infrastructures (GitLab / Bitbucket) under non-disclosure agreements (NDA).
+
 ---
 
 ## 👨‍💻 About Me
