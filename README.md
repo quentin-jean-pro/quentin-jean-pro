@@ -10,7 +10,7 @@
 </p>
 
 > [!NOTE]
-> **Curated Professional Showcase:** This dedicated profile presents clean, fully documented, and reproducible open-source reference implementations. My day-to-day industrial commits and R&D codebases have historically been hosted on private enterprise infrastructures (GitLab / Bitbucket) under non-disclosure agreements (NDA).
+> **Curated Engineering Showcase:** This dedicated profile consolidates and standardizes a selection of my key engineering, academic R&D, and open-source projects into clean, peer-reviewable reference repositories. Professional industrial codebases developed during my enterprise R&D roles remain hosted on private infrastructures under non-disclosure agreements (NDA).
 
 ---
 
