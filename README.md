@@ -9,8 +9,7 @@
   <a href="https://quentin-jean-pro.github.io/portfolio/assets/cv/CV_Quentin_JEAN_FR.pdf"><img src="https://img.shields.io/badge/CV-Télécharger%20PDF-10b981?style=flat-square&logo=adobeacrobatreader" alt="CV" /></a>
 </p>
 
-> [!NOTE]
-> **Curated Engineering Showcase:** This dedicated profile consolidates and standardizes a selection of my key engineering, academic R&D, and open-source projects into clean, peer-reviewable reference repositories. Professional industrial codebases developed during my enterprise R&D roles remain hosted on private infrastructures under non-disclosure agreements (NDA).
+Welcome to my engineering profile. I design and build **cyber-physical AI systems**, **agentic architectures (FastMCP & LangGraph)**, and **predictive control engines (MPC)** backed by rigorous software engineering standards (automated testing, MLOps, reproducible pipelines).
 
 ---
 
@@ -46,24 +45,24 @@ I am a Software & AI Engineer passionate about **bridging physical engineering a
 > `FastMCP` · `LangGraph` · `DuckDB Vector` · `SentenceTransformers` · `Green AI Compute`
 
 ### 2. ⚡ [`mpc-battery-thermal-management`](https://github.com/quentin-jean-pro/mpc-battery-thermal-management)
-> **Model Predictive Control (MPC) & Multi-Objective Optimization** for Lithium-Ion EV battery pack fast-charging. Solves receding-horizon electro-thermal dynamics (2-RC Thevenin state-space) balancing ultra-fast charging time against thermal aging and critical temperature boundaries ($T < 45^\circ\text{C}$).
-> `Model Predictive Control` · `State-Space Modeling` · `Pareto Fronts` · `SciPy SLSQP` · `Clean Energy`
+> **Physical System Identification & Model Predictive Control (MPC)** for Lithium-Ion EV battery pack fast-charging. Identifies 2-RC Thevenin electro-thermal parameters ($R, C$) under strict physical boundaries on standard HPPC profiles, coupled with a receding-horizon SLSQP controller balancing fast charging against cell degradation ($T < 45^\circ\text{C}$).
+> `Model Predictive Control` · `System Identification` · `Physics-Informed` · `SciPy SLSQP` · `Clean Energy`
 
 ### 3. 🛠️ [`mlops-purchase-pipeline`](https://github.com/quentin-jean-pro/mlops-purchase-pipeline)
-> **Industrialized Machine Learning pipeline under Kedro** with modular stages (`loading`, `processing`, `training`), Bayesian hyperparameter tuning (Hyperopt TPE) for LightGBM, automated Pytest coverage, and strict Ruff linting.
+> **Industrialized MLOps pipeline with Kedro & LightGBM** featuring decoupled Data Catalog layers, Bayesian hyperparameter tuning (Hyperopt TPE with strict schema casting), Repeated K-Fold cross-validation, and automated Pytest test suite.
 > `Kedro` · `LightGBM` · `Hyperopt` · `Pytest` · `Ruff` · `Production ML`
 
 ### 4. 🥗 [`multiagent-nutrition-nlp`](https://github.com/quentin-jean-pro/multiagent-nutrition-nlp)
-> **Distributed Multi-Agent System (MAS) in LangGraph** using local Llama 3 and deterministic tool calling on nutritional datasets. Eliminates mathematical hallucinations (**100% arithmetic accuracy**).
-> `LangGraph` · `Llama 3` · `Multi-Agents` · `Ollama` · `Pandas`
+> **Distributed Multi-Agent System (MAS) in LangGraph** coupling local Llama 3 with fuzzy entity resolution (`RapidFuzz`) and deterministic mathematical execution tools. Eliminates arithmetic hallucinations (**100% calculation accuracy** and strict allergen validation).
+> `LangGraph` · `Llama 3` · `RapidFuzz` · `Multi-Agents` · `Ollama`
 
 ### 5. 🌿 [`crossvit-botanical-vision`](https://github.com/quentin-jean-pro/crossvit-botanical-vision)
-> **Dual-branch Multi-Scale Vision Transformer (CrossViT)** with cross-attention token exchange for fine-grained botanical classification on digitized museum herbarium specimen sheets (**+4.2% Top-1 accuracy**).
-> `PyTorch` · `CrossViT` · `Vision Transformers` · `GPU CUDA` · `Label Smoothing`
+> **Dual-branch Multi-Scale Vision Transformer (CrossViT)** with specimen cropping and custom IoU-regularized attention loss in PyTorch, eliminating spurious archival tag correlations on digitized museum herbarium sheets (**+4.2% Top-1 accuracy**).
+> `PyTorch` · `CrossViT` · `Vision Transformers` · `Attention Rollout` · `GPU CUDA`
 
 ### 6. 🌧️ [`weather-prediction-app`](https://github.com/quentin-jean-pro/weather-prediction-app)
-> **End-to-End interactive ML web application** predicting Australian next-day rainfall across 140,000+ observations with class imbalance handling, robust median imputation, and dynamic Streamlit/Plotly dashboard.
-> `Streamlit` · `Scikit-Learn` · `Plotly` · `Joblib` · `Data Science`
+> **End-to-End interactive ML web application** predicting Australian next-day rainfall across 140,000+ observations with strict chronological train/test splitting, trigonometric cyclic wind encoding, TreeSHAP explainability, and real-time Streamlit serving (< 50ms).
+> `Streamlit` · `Scikit-Learn` · `XGBoost` · `SHAP` · `Data Science`
 
 ---
 
